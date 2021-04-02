@@ -4,257 +4,257 @@
         "container": [
             {
                 "desc": "':hehe:'",
-                "icon": "/static/images/smilies/hehe.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/hehe.png",
                 "text": "呵呵"
             },
             {
                 "desc": "':haha:'",
-                "icon": "/static/images/smilies/haha.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/haha.png",
                 "text": "哈哈"
             },
             {
                 "desc": "':tushe:'",
-                "icon": "/static/images/smilies/tushe.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/tushe.png",
                 "text": "吐舌"
             },
             {
                 "desc": "':a:'",
-                "icon": "/static/images/smilies/a.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/a.png",
                 "text": "啊"
             },
             {
                 "desc": "':ku:'",
-                "icon": "/static/images/smilies/ku.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/ku.png",
                 "text": "酷"
             },
             {
                 "desc": "':nu:'",
-                "icon": "/static/images/smilies/nu.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/nu.png",
                 "text": "怒"
             },
             {
                 "desc": "':kaixin:'",
-                "icon": "/static/images/smilies/kaixin.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/kaixin.png",
                 "text": "开心"
             },
             {
                 "desc": "':han:'",
-                "icon": "/static/images/smilies/han.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/han.png",
                 "text": "汗"
             },
             {
                 "desc": "':lei:'",
-                "icon": "/static/images/smilies/lei.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/lei.png",
                 "text": "泪"
             },
             {
                 "desc": "':heixian:'",
-                "icon": "/static/images/smilies/heixian.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/heixian.png",
                 "text": "黑线"
             },
             {
                 "desc": "':bishi:'",
-                "icon": "/static/images/smilies/bishi.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bishi.png",
                 "text": "鄙视"
             },
             {
                 "desc": "':bugaoxing:'",
-                "icon": "/static/images/smilies/bugaoxing.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bugaoxing.png",
                 "text": "不高兴"
             },
             {
                 "desc": "':zhenbang:'",
-                "icon": "/static/images/smilies/zhenbang.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/zhenbang.png",
                 "text": "真棒"
             },
             {
                 "desc": "':qian:'",
-                "icon": "/static/images/smilies/qian.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qian.png",
                 "text": "钱"
             },
             {
                 "desc": "':yiwen:'",
-                "icon": "/static/images/smilies/yiwen.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/yiwen.png",
                 "text": "疑问"
             },
             {
                 "desc": "':yinxian:'",
-                "icon": "/static/images/smilies/yinxian.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/yinxian.png",
                 "text": "阴险"
             },
             {
                 "desc": "':tu:'",
-                "icon": "/static/images/smilies/tu.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/tu.png",
                 "text": "吐"
             },
             {
                 "desc": "':yi:'",
-                "icon": "/static/images/smilies/yi.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/yi.png",
                 "text": "咦"
             },
             {
                 "desc": "':weiqv:'",
-                "icon": "/static/images/smilies/weiqv.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weiqv.png",
                 "text": "委屈"
             },
             {
                 "desc": "':huaxin:'",
-                "icon": "/static/images/smilies/huaxin.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaxin.png",
                 "text": "花心"
             },
             {
                 "desc": "':hu:'",
-                "icon": "/static/images/smilies/hu.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/hu.png",
                 "text": "呼~~"
             },
             {
                 "desc": "':xiaoyan:'",
-                "icon": "/static/images/smilies/xiaoyan.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/xiaoyan.png",
                 "text": "笑眼"
             },
             {
                 "desc": "':leng:'",
-                "icon": "/static/images/smilies/leng.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/leng.png",
                 "text": "冷"
             },
             {
                 "desc": "':taikaixin:'",
-                "icon": "/static/images/smilies/taikaixin.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/taikaixin.png",
                 "text": "太开心"
             },
             {
                 "desc": "':huaji2:'",
-                "icon": "/static/images/smilies/huaji2.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji2.png",
                 "text": "右滑稽"
             },
             {
                 "desc": "':huaji:'",
-                "icon": "/static/images/smilies/huaji.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji.png",
                 "text": "左滑稽"
             },
             {
                 "desc": "':mianqiang:'",
-                "icon": "/static/images/smilies/mianqiang.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/mianqiang.png",
                 "text": "勉强"
             },
             {
                 "desc": "':kuanghan:'",
-                "icon": "/static/images/smilies/kuanghan.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/kuanghan.png",
                 "text": "狂汗"
             },
             {
                 "desc": "':guai:'",
-                "icon": "/static/images/smilies/guai.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/guai.png",
                 "text": "乖"
             },
             {
                 "desc": "':shuijiao:'",
-                "icon": "/static/images/smilies/shuijiao.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/shuijiao.png",
                 "text": "睡觉"
             },
             {
                 "desc": "':jingku:'",
-                "icon": "/static/images/smilies/jingku.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/jingku.png",
                 "text": "惊哭"
             },
             {
                 "desc": "':shengqi:'",
-                "icon": "/static/images/smilies/shengqi.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/shengqi.png",
                 "text": "生气"
             },
             {
                 "desc": "':jingya:'",
-                "icon": "/static/images/smilies/jingya.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/jingya.png",
                 "text": "惊讶"
             },
             {
                 "desc": "':pen:'",
-                "icon": "/static/images/smilies/pen.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/pen.png",
                 "text": "喷"
             },
             {
                 "desc": "':aixin:'",
-                "icon": "/static/images/smilies/aixin.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/aixin.png",
                 "text": "爱心"
             },
             {
                 "desc": "':xinsui:'",
-                "icon": "/static/images/smilies/xinsui.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/xinsui.png",
                 "text": "心碎"
             },
             {
                 "desc": "':meigui:'",
-                "icon": "/static/images/smilies/meigui.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/meigui.png",
                 "text": "玫瑰"
             },
             {
                 "desc": "':liwu:'",
-                "icon": "/static/images/smilies/liwu.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/liwu.png",
                 "text": "礼物"
             },
             {
                 "desc": "':caihong:'",
-                "icon": "/static/images/smilies/caihong.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/caihong.png",
                 "text": "彩虹"
             },
             {
                 "desc": "':xxyl:'",
-                "icon": "/static/images/smilies/xxyl.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/xxyl.png",
                 "text": "星星月亮"
             },
             {
                 "desc": "':sun:'",
-                "icon": "/static/images/smilies/sun.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/sun.png",
                 "text": "太阳"
             },
             {
                 "desc": "':money:'",
-                "icon": "/static/images/smilies/money.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/money.png",
                 "text": "钱币"
             },
             {
                 "desc": "':bulb:'",
-                "icon": "/static/images/smilies/bulb.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bulb.png",
                 "text": "灯泡"
             },
             {
                 "desc": "':cup:'",
-                "icon": "/static/images/smilies/cup.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/cup.png",
                 "text": "茶杯"
             },
             {
                 "desc": "':cake:'",
-                "icon": "/static/images/smilies/cake.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/cake.png",
                 "text": "蛋糕"
             },
             {
                 "desc": "':music:'",
-                "icon": "/static/images/smilies/music.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/music.png",
                 "text": "音乐"
             },
             {
                 "desc": "':haha2:'",
-                "icon": "/static/images/smilies/haha2.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/haha2.png",
                 "text": "haha"
             },
             {
                 "desc": "':win:'",
-                "icon": "/static/images/smilies/win.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/win.png",
                 "text": "胜利"
             },
             {
                 "desc": "':good:'",
-                "icon": "/static/images/smilies/good.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/good.png",
                 "text": "大拇指"
             },
             {
                 "desc": "':bad:'",
-                "icon": "/static/images/smilies/bad.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bad.png",
                 "text": "弱"
             },
             {
                 "desc": "':ok:'",
-                "icon": "/static/images/smilies/ok.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/ok.png",
                 "text": "OK"
             }
         ]
@@ -264,117 +264,117 @@
         "container": [
             {
                 "desc": "':huaji2:'",
-                "icon": "/static/images/smilies/huaji2.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji2.png",
                 "text": ""
             },
             {
                 "desc": "':huaji:'",
-                "icon": "/static/images/smilies/huaji.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji.png",
                 "text": ""
             },
             {
                 "desc": "':huaji3:'",
-                "icon": "/static/images/smilies/huaji3.gif",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji3.gif",
                 "text": ""
             },
             {
                 "desc": "':huaji4:'",
-                "icon": "/static/images/smilies/huaji4.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji4.png",
                 "text": ""
             },
             {
                 "desc": "':huaji5:'",
-                "icon": "/static/images/smilies/huaji5.gif",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji5.gif",
                 "text": ""
             },
             {
                 "desc": "':huaji6:'",
-                "icon": "/static/images/smilies/huaji6.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji6.png",
                 "text": ""
             },
             {
                 "desc": "':huaji7:'",
-                "icon": "/static/images/smilies/huaji7.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji7.png",
                 "text": ""
             },
             {
                 "desc": "':huaji8:'",
-                "icon": "/static/images/smilies/huaji8.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji8.png",
                 "text": ""
             },
             {
                 "desc": "':huaji9:'",
-                "icon": "/static/images/smilies/huaji9.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji9.png",
                 "text": ""
             },
             {
                 "desc": "':huaji10:'",
-                "icon": "/static/images/smilies/huaji10.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji10.png",
                 "text": ""
             },
             {
                 "desc": "':huaji11:'",
-                "icon": "/static/images/smilies/huaji11.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji11.png",
                 "text": ""
             },
             {
                 "desc": "':huaji12:'",
-                "icon": "/static/images/smilies/huaji12.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji12.png",
                 "text": ""
             },
             {
                 "desc": "':huaji13:'",
-                "icon": "/static/images/smilies/huaji13.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji13.png",
                 "text": ""
             },
             {
                 "desc": "':huaji14:'",
-                "icon": "/static/images/smilies/huaji14.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji14.png",
                 "text": ""
             },
             {
                 "desc": "':huaji15:'",
-                "icon": "/static/images/smilies/huaji15.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji15.png",
                 "text": ""
             },
             {
                 "desc": "':huaji16:'",
-                "icon": "/static/images/smilies/huaji16.gif",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji16.gif",
                 "text": ""
             },
             {
                 "desc": "':huaji17:'",
-                "icon": "/static/images/smilies/huaji17.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji17.png",
                 "text": ""
             },
             {
                 "desc": "':huaji18:'",
-                "icon": "/static/images/smilies/huaji18.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji18.png",
                 "text": ""
             },
             {
                 "desc": "':huaji19:'",
-                "icon": "/static/images/smilies/huaji19.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji19.png",
                 "text": ""
             },
             {
                 "desc": "':huaji20:'",
-                "icon": "/static/images/smilies/huaji20.gif",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji20.gif",
                 "text": ""
             },
             {
                 "desc": "':huaji21:'",
-                "icon": "/static/images/smilies/huaji21.gif",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji21.gif",
                 "text": ""
             },
             {
                 "desc": "':huaji22:'",
-                "icon": "/static/images/smilies/huaji22.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji22.png",
                 "text": ""
             },
             {
                 "desc": "':huaji23:'",
-                "icon": "/static/images/smilies/huaji23.png",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji23.png",
                 "text": ""
             }
         ]
@@ -524,192 +524,192 @@
     "container": [
         {
             "desc": "':despise:'",
-            "icon": "/static/images/smilies/despise.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/despise.png",
             "text": "鄙视"
         },
         {
             "desc": "':knife:'",
-            "icon": "/static/images/smilies/knife.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/knife.png",
             "text": "插刀"
         },
         {
             "desc": "':pouting:'",
-            "icon": "/static/images/smilies/pouting.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/pouting.png",
             "text": "亲嘴"
         },
         {
             "desc": "':shutup:'",
-            "icon": "/static/images/smilies/shutup.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/shutup.png",
             "text": "闭嘴"
         },
         {
             "desc": "':unhappy:'",
-            "icon": "/static/images/smilies/unhappy.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/unhappy.png",
             "text": "不开心"
         },
         {
             "desc": "':discovertruth:'",
-            "icon": "/static/images/smilies/discovertruth.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/discovertruth.png",
             "text": "发现真相"
         },
         {
             "desc": "':shit:'",
-            "icon": "/static/images/smilies/shit.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/shit.png",
             "text": "便便"
         },
         {
             "desc": "':distressed:'",
-            "icon": "/static/images/smilies/distressed.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/distressed.png",
             "text": "烦恼"
         },
         {
             "desc": "':shy:'",
-            "icon": "/static/images/smilies/shy.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/shy.png",
             "text": "捂脸"
         },
         {
             "desc": "':speechless:'",
-            "icon": "/static/images/smilies/speechless.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/speechless.png",
             "text": "无语"
         },
         {
             "desc": "':confuse:'",
-            "icon": "/static/images/smilies/confuse.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/confuse.png",
             "text": "迷惑"
         },
         {
             "desc": "':frown:'",
-            "icon": "/static/images/smilies/frown.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/frown.png",
             "text": "皱眉"
         },
         {
             "desc": "':proud:'",
-            "icon": "/static/images/smilies/proud.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/proud.png",
             "text": "得意"
         },
         {
             "desc": "':cheer:'",
-            "icon": "/static/images/smilies/cheer.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/cheer.png",
             "text": "欢呼"
         },
         {
             "desc": "':meditation:'",
-            "icon": "/static/images/smilies/meditation.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/meditation.png",
             "text": "沉思"
         },
         {
             "desc": "':diving:'",
-            "icon": "/static/images/smilies/diving.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/diving.png",
             "text": "潜水"
         },
         {
             "desc": "':cryingface:'",
-            "icon": "/static/images/smilies/cryingface.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/cryingface.png",
             "text": "掩面哭泣"
         },
         {
             "desc": "':lurking:'",
-            "icon": "/static/images/smilies/lurking.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/lurking.png",
             "text": "潜伏"
         },
         {
             "desc": "':thumb:'",
-            "icon": "/static/images/smilies/thumb.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/thumb.png",
             "text": "大拇指"
         },
         {
             "desc": "':smile:'",
-            "icon": "/static/images/smilies/smile.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/smile.png",
             "text": "微笑"
         },
         {
             "desc": "':clap:'",
-            "icon": "/static/images/smilies/clap.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/clap.png",
             "text": "拍掌"
         },
         {
             "desc": "':envious:'",
-            "icon": "/static/images/smilies/envious.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/envious.png",
             "text": "眼馋"
         },
         {
             "desc": "':surrender:'",
-            "icon": "/static/images/smilies/surrender.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/surrender.png",
             "text": "投降"
         },
         {
             "desc": "':bigeye:'",
-            "icon": "/static/images/smilies/bigeye.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bigeye.png",
             "text": "大眼睛"
         },
         {
             "desc": "':nose:'",
-            "icon": "/static/images/smilies/nose.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/nose.png",
             "text": "抠鼻"
         },
         {
             "desc": "':sweat:'",
-            "icon": "/static/images/smilies/sweat.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/sweat.png",
             "text": "流汗"
         },
         {
             "desc": "':flower:'",
-            "icon": "/static/images/smilies/flower.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/flower.png",
             "text": "小花花"
         },
         {
             "desc": "':crying:'",
-            "icon": "/static/images/smilies/crying.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/crying.png",
             "text": "流泪"
         },
         {
             "desc": "':spit:'",
-            "icon": "/static/images/smilies/spit.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/spit.png",
             "text": "吐"
         },
         {
             "desc": "':surprised:'",
-            "icon": "/static/images/smilies/surprised.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/surprised.png",
             "text": "吃惊"
         },
         {
             "desc": "':blood:'",
-            "icon": "/static/images/smilies/blood.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/blood.png",
             "text": "一滩血"
         },
         {
             "desc": "':blood2:'",
-            "icon": "/static/images/smilies/blood2.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/blood2.png",
             "text": "吐血"
         },
         {
             "desc": "':shy2:'",
-            "icon": "/static/images/smilies/shy2.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/shy2.png",
             "text": "脸红"
         },
         {
             "desc": "':angry:'",
-            "icon": "/static/images/smilies/angry.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/angry.png",
             "text": "生气"
         },
         {
             "desc": "':nomatter:'",
-            "icon": "/static/images/smilies/nomatter.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/nomatter.png",
             "text": "无所谓"
         },
         {
             "desc": "':dead:'",
-            "icon": "/static/images/smilies/dead.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/dead.png",
             "text": "死翘翘"
         },
         {
             "desc": "':insidious:'",
-            "icon": "/static/images/smilies/insidious.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/insidious.png",
             "text": "阴险"
         },
         {
             "desc": "':tongue:'",
-            "icon": "/static/images/smilies/tongue.png",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/tongue.png",
             "text": "吐舌"
         }
     ]
