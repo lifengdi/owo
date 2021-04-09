@@ -1278,5 +1278,55 @@
                 "text": "Y.wb112"
             }
         ]
+    },
+    "QSay": {
+    "type": "image",
+    "container": [
+        {
+            "desc": "':qsay.bmjl:'",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qsay/bmjl.png",
+            "text": "不明觉厉"
+        },
+        {
+            "desc": "':qsay.dgz:'",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qsay/dgz.png",
+            "text": "点个赞"
+        },
+        {
+            "desc": "':qsay.jrjsjq:'",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qsay/jrjsjq.png",
+            "text": "贱人就是矫情"
+        },
+        {
+            "desc": "':qsay.nnmmnjrzm:'",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qsay/nnmmnjrzm.png",
+            "text": "你那么萌你家人造吗"
+        },
+        {
+            "desc": "':qsay.rjbc:'",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qsay/rjbc.png",
+            "text": "人艰不拆"
+        },
+        {
+            "desc": "':qsay.yzszl:'",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qsay/yzszl.png",
+            "text": "也真是醉了"
+        },
+        {
+            "desc": "':qsay.zzdl:'",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qsay/zzdl.png",
+            "text": "朕知道了"
+        },
+        {
+            "desc": "':qsay.zzs:'",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qsay/zzs.png",
+            "text": "涨姿势"
+        },
+        {
+            "desc": "':qsay.zzsjhd:'",
+            "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qsay/zzsjhd.png",
+            "text": "这真是极好的"
+        }
+        ]
     }
 }
