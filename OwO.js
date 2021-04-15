@@ -36,7 +36,7 @@ var _createClass = function() {
                 position: "down",
                 width: "90%",
                 maxHeight: "250px",
-                api: "https://www.lifengdi.com/wp-content/themes/kratos-3.2.4/inc/OwO.json"
+                api: "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/OwO.json"
             };
             for (var n in s) {
                 s.hasOwnProperty(n) && !t.hasOwnProperty(n) && (t[n] = s[n])
