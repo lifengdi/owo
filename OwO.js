@@ -66,7 +66,7 @@ var _createClass = function() {
                         } else if (temp0.substr(0, 1) == "/") {
                             var temp0 = '<img src="https://www.lifengdi.com/wp-content/themes/kratos-3.2.4' + n[i].icon + '">'
                         }
-                        a += '\n                    <li class="OwO-item" title="' + n[i].text + '"><a onclick="owoGrin(' + n[i].desc + ',this)">' + temp0 + "</a></li>"
+                        a += '\n                    <li class="OwO-item" title="' + n[i].text + '"><a onclick="owoInsert(' + n[i].desc + ',this)">' + temp0 + "</a></li>"
                     }
                     a += "\n                </ul>"
                 }
@@ -114,7 +114,7 @@ var _createClass = function() {
 
     "undefined" != typeof module && "undefined" != typeof module.exports ? module.exports = e : window.OwO = e
 }();
-function owoGrin(tag,icon) {
+function owoInsert(tag,icon) {
     var myField;
     var p = icon.parentNode.parentNode.parentNode.parentNode.parentNode;
     tag = " " + tag + " ";
