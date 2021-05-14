@@ -1328,5 +1328,790 @@
                 "text": "这真是极好的"
             }
         ]
+    },
+    "抖音": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/1.png",
+                "text": "1",
+                "desc": "':douyin.1:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/11.png",
+                "text": "11",
+                "desc": "':douyin.11:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/111.png",
+                "text": "111",
+                "desc": "':douyin.111:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/112.png",
+                "text": "112",
+                "desc": "':douyin.112:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/113.png",
+                "text": "113",
+                "desc": "':douyin.113:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/114.png",
+                "text": "114",
+                "desc": "':douyin.114:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/12.png",
+                "text": "12",
+                "desc": "':douyin.12:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/13.png",
+                "text": "13",
+                "desc": "':douyin.13:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/14.png",
+                "text": "14",
+                "desc": "':douyin.14:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/15.png",
+                "text": "15",
+                "desc": "':douyin.15:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/16.png",
+                "text": "16",
+                "desc": "':douyin.16:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/17.png",
+                "text": "17",
+                "desc": "':douyin.17:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/18.png",
+                "text": "18",
+                "desc": "':douyin.18:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/19.png",
+                "text": "19",
+                "desc": "':douyin.19:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/2.png",
+                "text": "2",
+                "desc": "':douyin.2:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/20.png",
+                "text": "20",
+                "desc": "':douyin.20:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/21.png",
+                "text": "21",
+                "desc": "':douyin.21:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/22.png",
+                "text": "22",
+                "desc": "':douyin.22:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/23.png",
+                "text": "23",
+                "desc": "':douyin.23:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/24.png",
+                "text": "24",
+                "desc": "':douyin.24:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/25.png",
+                "text": "25",
+                "desc": "':douyin.25:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/26.png",
+                "text": "26",
+                "desc": "':douyin.26:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/27.png",
+                "text": "27",
+                "desc": "':douyin.27:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/28.png",
+                "text": "28",
+                "desc": "':douyin.28:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/29.png",
+                "text": "29",
+                "desc": "':douyin.29:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/3.png",
+                "text": "3",
+                "desc": "':douyin.3:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/30.png",
+                "text": "30",
+                "desc": "':douyin.30:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/31.png",
+                "text": "31",
+                "desc": "':douyin.31:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/32.png",
+                "text": "32",
+                "desc": "':douyin.32:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/33.png",
+                "text": "33",
+                "desc": "':douyin.33:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/34.png",
+                "text": "34",
+                "desc": "':douyin.34:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/35.png",
+                "text": "35",
+                "desc": "':douyin.35:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/36.png",
+                "text": "36",
+                "desc": "':douyin.36:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/37.png",
+                "text": "37",
+                "desc": "':douyin.37:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/38.png",
+                "text": "38",
+                "desc": "':douyin.38:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/39.png",
+                "text": "39",
+                "desc": "':douyin.39:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/4.png",
+                "text": "4",
+                "desc": "':douyin.4:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/40.png",
+                "text": "40",
+                "desc": "':douyin.40:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/41.png",
+                "text": "41",
+                "desc": "':douyin.41:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/42.png",
+                "text": "42",
+                "desc": "':douyin.42:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/43.png",
+                "text": "43",
+                "desc": "':douyin.43:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/44.png",
+                "text": "44",
+                "desc": "':douyin.44:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/46.png",
+                "text": "46",
+                "desc": "':douyin.46:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/47.png",
+                "text": "47",
+                "desc": "':douyin.47:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/48.png",
+                "text": "48",
+                "desc": "':douyin.48:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/49.png",
+                "text": "49",
+                "desc": "':douyin.49:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/5.png",
+                "text": "5",
+                "desc": "':douyin.5:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/50.png",
+                "text": "50",
+                "desc": "':douyin.50:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/51.png",
+                "text": "51",
+                "desc": "':douyin.51:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/52.png",
+                "text": "52",
+                "desc": "':douyin.52:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/53.png",
+                "text": "53",
+                "desc": "':douyin.53:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/54.png",
+                "text": "54",
+                "desc": "':douyin.54:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/55.png",
+                "text": "55",
+                "desc": "':douyin.55:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/57.png",
+                "text": "57",
+                "desc": "':douyin.57:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/58.png",
+                "text": "58",
+                "desc": "':douyin.58:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/59.png",
+                "text": "59",
+                "desc": "':douyin.59:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/6.png",
+                "text": "6",
+                "desc": "':douyin.6:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/60.png",
+                "text": "60",
+                "desc": "':douyin.60:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/61.png",
+                "text": "61",
+                "desc": "':douyin.61:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/62.png",
+                "text": "62",
+                "desc": "':douyin.62:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/63.png",
+                "text": "63",
+                "desc": "':douyin.63:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/64.png",
+                "text": "64",
+                "desc": "':douyin.64:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/65.png",
+                "text": "65",
+                "desc": "':douyin.65:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/66.png",
+                "text": "66",
+                "desc": "':douyin.66:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/67.png",
+                "text": "67",
+                "desc": "':douyin.67:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/69.png",
+                "text": "69",
+                "desc": "':douyin.69:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/7.png",
+                "text": "7",
+                "desc": "':douyin.7:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/72.png",
+                "text": "72",
+                "desc": "':douyin.72:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/74(1).png",
+                "text": "74(1)",
+                "desc": "':douyin.74(1):'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/74.png",
+                "text": "74",
+                "desc": "':douyin.74:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/76.png",
+                "text": "76",
+                "desc": "':douyin.76:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/77.png",
+                "text": "77",
+                "desc": "':douyin.77:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/78.png",
+                "text": "78",
+                "desc": "':douyin.78:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/79.png",
+                "text": "79",
+                "desc": "':douyin.79:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/8.png",
+                "text": "8",
+                "desc": "':douyin.8:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/80.png",
+                "text": "80",
+                "desc": "':douyin.80:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/81.png",
+                "text": "81",
+                "desc": "':douyin.81:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/82.png",
+                "text": "82",
+                "desc": "':douyin.82:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/85.png",
+                "text": "85",
+                "desc": "':douyin.85:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/86.png",
+                "text": "86",
+                "desc": "':douyin.86:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/87.png",
+                "text": "87",
+                "desc": "':douyin.87:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/9.png",
+                "text": "9",
+                "desc": "':douyin.9:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/90.png",
+                "text": "90",
+                "desc": "':douyin.90:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/92.png",
+                "text": "92",
+                "desc": "':douyin.92:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/93.png",
+                "text": "93",
+                "desc": "':douyin.93:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/94.png",
+                "text": "94",
+                "desc": "':douyin.94:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/95.png",
+                "text": "95",
+                "desc": "':douyin.95:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/96.png",
+                "text": "96",
+                "desc": "':douyin.96:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/97.png",
+                "text": "97",
+                "desc": "':douyin.97:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/98.png",
+                "text": "98",
+                "desc": "':douyin.98:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/99.png",
+                "text": "99",
+                "desc": "':douyin.99:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/all.png",
+                "text": "all",
+                "desc": "':douyin.all:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/ba.png",
+                "text": "ba",
+                "desc": "':douyin.ba:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/bainian.png",
+                "text": "bainian",
+                "desc": "':douyin.bainian:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/bianpao.png",
+                "text": "bianpao",
+                "desc": "':douyin.bianpao:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/bird.png",
+                "text": "bird",
+                "desc": "':douyin.bird:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/bulls.png",
+                "text": "bulls",
+                "desc": "':douyin.bulls:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/chanche.png",
+                "text": "chanche",
+                "desc": "':douyin.chanche:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/chepiao.png",
+                "text": "chepiao",
+                "desc": "':douyin.chepiao:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/chick.png",
+                "text": "chick",
+                "desc": "':douyin.chick:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/chinamoney.png",
+                "text": "chinamoney",
+                "desc": "':douyin.chinamoney:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/coo(1).png",
+                "text": "coo(1)",
+                "desc": "':douyin.coo(1):'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/coo.png",
+                "text": "coo",
+                "desc": "':douyin.coo:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/cor.png",
+                "text": "cor",
+                "desc": "':douyin.cor:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/cot.png",
+                "text": "cot",
+                "desc": "':douyin.cot:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/drive.png",
+                "text": "drive",
+                "desc": "':douyin.drive:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/drug.png",
+                "text": "drug",
+                "desc": "':douyin.drug:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/eagle.png",
+                "text": "eagle",
+                "desc": "':douyin.eagle:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/egg.png",
+                "text": "egg",
+                "desc": "':douyin.egg:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/eye.png",
+                "text": "eye",
+                "desc": "':douyin.eye:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/facai.png",
+                "text": "facai",
+                "desc": "':douyin.facai:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/feiji.png",
+                "text": "feiji",
+                "desc": "':douyin.feiji:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/fengzheng.png",
+                "text": "fengzheng",
+                "desc": "':douyin.fengzheng:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/flower.png",
+                "text": "flower",
+                "desc": "':douyin.flower:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/fu.png",
+                "text": "fu",
+                "desc": "':douyin.fu:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/gouliang.png",
+                "text": "gouliang",
+                "desc": "':douyin.gouliang:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/gouwuche.png",
+                "text": "gouwuche",
+                "desc": "':douyin.gouwuche:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/greenhat.png",
+                "text": "greenhat",
+                "desc": "':douyin.greenhat:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/gu.png",
+                "text": "gu",
+                "desc": "':douyin.gu:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/guazi.png",
+                "text": "guazi",
+                "desc": "':douyin.guazi:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/guihua.png",
+                "text": "guihua",
+                "desc": "':douyin.guihua:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/hongbao.png",
+                "text": "hongbao",
+                "desc": "':douyin.hongbao:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/horse.png",
+                "text": "horse",
+                "desc": "':douyin.horse:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/huadeng.png",
+                "text": "huadeng",
+                "desc": "':douyin.huadeng:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/jiaozi.png",
+                "text": "jiaozi",
+                "desc": "':douyin.jiaozi:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/jiu.png",
+                "text": "jiu",
+                "desc": "':douyin.jiu:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/lingmeng.png",
+                "text": "lingmeng",
+                "desc": "':douyin.lingmeng:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/longxia.png",
+                "text": "longxia",
+                "desc": "':douyin.longxia:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/longzhou.png",
+                "text": "longzhou",
+                "desc": "':douyin.longzhou:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/mantou.png",
+                "text": "mantou",
+                "desc": "':douyin.mantou:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/mushroom.png",
+                "text": "mushroom",
+                "desc": "':douyin.mushroom:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/needle.png",
+                "text": "needle",
+                "desc": "':douyin.needle:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/niulang.png",
+                "text": "niulang",
+                "desc": "':douyin.niulang:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/noodle.png",
+                "text": "noodle",
+                "desc": "':douyin.noodle:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/pipi.png",
+                "text": "pipi",
+                "desc": "':douyin.pipi:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/qinglv.png",
+                "text": "qinglv",
+                "desc": "':douyin.qinglv:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/qingshu.png",
+                "text": "qingshu",
+                "desc": "':douyin.qingshu:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/qiqiu.png",
+                "text": "qiqiu",
+                "desc": "':douyin.qiqiu:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/qiuye.png",
+                "text": "qiuye",
+                "desc": "':douyin.qiuye:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/shengridangao.png",
+                "text": "shengridangao",
+                "desc": "':douyin.shengridangao:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/shu.png",
+                "text": "shu",
+                "desc": "':douyin.shu:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/shuijiao.png",
+                "text": "shuijiao",
+                "desc": "':douyin.shuijiao:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/star.png",
+                "text": "star",
+                "desc": "':douyin.star:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/tianyuebing.png",
+                "text": "tianyuebing",
+                "desc": "':douyin.tianyuebing:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/tianzong.png",
+                "text": "tianzong",
+                "desc": "':douyin.tianzong:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/tiger.png",
+                "text": "tiger",
+                "desc": "':douyin.tiger:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/turtle.png",
+                "text": "turtle",
+                "desc": "':douyin.turtle:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/tuzi.png",
+                "text": "tuzi",
+                "desc": "':douyin.tuzi:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/weishengzhi.png",
+                "text": "weishengzhi",
+                "desc": "':douyin.weishengzhi:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/wenhao.png",
+                "text": "wenhao",
+                "desc": "':douyin.wenhao:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/wocao.png",
+                "text": "wocao",
+                "desc": "':douyin.wocao:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/xiandan.png",
+                "text": "xiandan",
+                "desc": "':douyin.xiandan:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/xianyuebing.png",
+                "text": "xianyuebing",
+                "desc": "':douyin.xianyuebing:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/xianzong.png",
+                "text": "xianzong",
+                "desc": "':douyin.xianzong:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/xique.png",
+                "text": "xique",
+                "desc": "':douyin.xique:'"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/yijianchuanxin.png",
+                "text": "yijianchuanxin",
+                "desc": "':douyin.yijianchuanxin:'"
+            }
+        ]
     }
 }
