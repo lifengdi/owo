@@ -1,1082 +1,9 @@
 {
-    "贴吧泡泡": {
+    "抖音":
+    {
         "type": "image",
-        "container": [
-            {
-                "desc": "':hehe:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/hehe.png",
-                "text": "呵呵"
-            },
-            {
-                "desc": "':haha:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/haha.png",
-                "text": "哈哈"
-            },
-            {
-                "desc": "':tushe:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/tushe.png",
-                "text": "吐舌"
-            },
-            {
-                "desc": "':a:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/a.png",
-                "text": "啊"
-            },
-            {
-                "desc": "':ku:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/ku.png",
-                "text": "酷"
-            },
-            {
-                "desc": "':nu:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/nu.png",
-                "text": "怒"
-            },
-            {
-                "desc": "':kaixin:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/kaixin.png",
-                "text": "开心"
-            },
-            {
-                "desc": "':han:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/han.png",
-                "text": "汗"
-            },
-            {
-                "desc": "':lei:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/lei.png",
-                "text": "泪"
-            },
-            {
-                "desc": "':heixian:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/heixian.png",
-                "text": "黑线"
-            },
-            {
-                "desc": "':bishi:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bishi.png",
-                "text": "鄙视"
-            },
-            {
-                "desc": "':bugaoxing:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bugaoxing.png",
-                "text": "不高兴"
-            },
-            {
-                "desc": "':zhenbang:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/zhenbang.png",
-                "text": "真棒"
-            },
-            {
-                "desc": "':qian:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qian.png",
-                "text": "钱"
-            },
-            {
-                "desc": "':yiwen:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/yiwen.png",
-                "text": "疑问"
-            },
-            {
-                "desc": "':yinxian:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/yinxian.png",
-                "text": "阴险"
-            },
-            {
-                "desc": "':tu:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/tu.png",
-                "text": "吐"
-            },
-            {
-                "desc": "':yi:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/yi.png",
-                "text": "咦"
-            },
-            {
-                "desc": "':weiqv:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weiqv.png",
-                "text": "委屈"
-            },
-            {
-                "desc": "':huaxin:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaxin.png",
-                "text": "花心"
-            },
-            {
-                "desc": "':hu:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/hu.png",
-                "text": "呼~~"
-            },
-            {
-                "desc": "':xiaoyan:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/xiaoyan.png",
-                "text": "笑眼"
-            },
-            {
-                "desc": "':leng:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/leng.png",
-                "text": "冷"
-            },
-            {
-                "desc": "':taikaixin:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/taikaixin.png",
-                "text": "太开心"
-            },
-            {
-                "desc": "':huaji2:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji2.png",
-                "text": "右滑稽"
-            },
-            {
-                "desc": "':huaji:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji.png",
-                "text": "左滑稽"
-            },
-            {
-                "desc": "':mianqiang:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/mianqiang.png",
-                "text": "勉强"
-            },
-            {
-                "desc": "':kuanghan:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/kuanghan.png",
-                "text": "狂汗"
-            },
-            {
-                "desc": "':guai:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/guai.png",
-                "text": "乖"
-            },
-            {
-                "desc": "':shuijiao:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/shuijiao.png",
-                "text": "睡觉"
-            },
-            {
-                "desc": "':jingku:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/jingku.png",
-                "text": "惊哭"
-            },
-            {
-                "desc": "':shengqi:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/shengqi.png",
-                "text": "生气"
-            },
-            {
-                "desc": "':jingya:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/jingya.png",
-                "text": "惊讶"
-            },
-            {
-                "desc": "':pen:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/pen.png",
-                "text": "喷"
-            },
-            {
-                "desc": "':aixin:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/aixin.png",
-                "text": "爱心"
-            },
-            {
-                "desc": "':xinsui:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/xinsui.png",
-                "text": "心碎"
-            },
-            {
-                "desc": "':meigui:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/meigui.png",
-                "text": "玫瑰"
-            },
-            {
-                "desc": "':liwu:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/liwu.png",
-                "text": "礼物"
-            },
-            {
-                "desc": "':caihong:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/caihong.png",
-                "text": "彩虹"
-            },
-            {
-                "desc": "':xxyl:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/xxyl.png",
-                "text": "星星月亮"
-            },
-            {
-                "desc": "':sun:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/sun.png",
-                "text": "太阳"
-            },
-            {
-                "desc": "':money:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/money.png",
-                "text": "钱币"
-            },
-            {
-                "desc": "':bulb:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bulb.png",
-                "text": "灯泡"
-            },
-            {
-                "desc": "':cup:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/cup.png",
-                "text": "茶杯"
-            },
-            {
-                "desc": "':cake:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/cake.png",
-                "text": "蛋糕"
-            },
-            {
-                "desc": "':music:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/music.png",
-                "text": "音乐"
-            },
-            {
-                "desc": "':haha2:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/haha2.png",
-                "text": "haha"
-            },
-            {
-                "desc": "':win:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/win.png",
-                "text": "胜利"
-            },
-            {
-                "desc": "':good:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/good.png",
-                "text": "大拇指"
-            },
-            {
-                "desc": "':bad:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bad.png",
-                "text": "弱"
-            },
-            {
-                "desc": "':ok:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/ok.png",
-                "text": "OK"
-            }
-        ]
-    },
-    "滑稽": {
-        "type": "image",
-        "container": [
-            {
-                "desc": "':huaji2:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji2.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji3:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji3.gif",
-                "text": ""
-            },
-            {
-                "desc": "':huaji4:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji4.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji5:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji5.gif",
-                "text": ""
-            },
-            {
-                "desc": "':huaji6:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji6.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji8:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji8.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji10:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji10.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji11:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji11.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji12:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji12.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji13:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji13.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji14:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji14.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji15:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji15.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji16:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji16.gif",
-                "text": ""
-            },
-            {
-                "desc": "':huaji17:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji17.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji18:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji18.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji19:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji19.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji20:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji20.gif",
-                "text": ""
-            },
-            {
-                "desc": "':huaji21:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji21.gif",
-                "text": ""
-            },
-            {
-                "desc": "':huaji22:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji22.png",
-                "text": ""
-            },
-            {
-                "desc": "':huaji23:'",
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji23.png",
-                "text": ""
-            }
-        ]
-    },
-    "颜文字": {
-        "type": "emoticon",
-        "container": [
-            {
-                "desc": "'OωO'",
-                "icon": "OωO",
-                "text": "Author: DIYgod"
-            },
-            {
-                "desc": "'|´・ω・)ノ'",
-                "icon": "|´・ω・)ノ",
-                "text": "Hi"
-            },
-            {
-                "desc": "'ヾ(≧∇≦*)ゝ'",
-                "icon": "ヾ(≧∇≦*)ゝ",
-                "text": "开心"
-            },
-            {
-                "desc": "'(☆ω☆)'",
-                "icon": "(☆ω☆)",
-                "text": "星星眼"
-            },
-            {
-                "desc": "'（╯‵□′）╯︵┴─┴'",
-                "icon": "（╯‵□′）╯︵┴─┴",
-                "text": "掀桌"
-            },
-            {
-                "desc": "'￣﹃￣'",
-                "icon": "￣﹃￣",
-                "text": "流口水"
-            },
-            {
-                "desc": "'(/ω＼)'",
-                "icon": "(/ω＼)",
-                "text": "捂脸"
-            },
-            {
-                "desc": "'∠( ᐛ 」∠)＿'",
-                "icon": "∠( ᐛ 」∠)＿",
-                "text": "给跪"
-            },
-            {
-                "desc": "'(๑•̀ㅁ•́ฅ)'",
-                "icon": "(๑•̀ㅁ•́ฅ)",
-                "text": "Hi"
-            },
-            {
-                "desc": "'→_→'",
-                "icon": "→_→",
-                "text": "斜眼"
-            },
-            {
-                "desc": "'୧(๑•̀⌄•́๑)૭'",
-                "icon": "୧(๑•̀⌄•́๑)૭",
-                "text": "加油"
-            },
-            {
-                "desc": "'٩(ˊᗜˋ*)و'",
-                "icon": "٩(ˊᗜˋ*)و",
-                "text": "有木有WiFi"
-            },
-            {
-                "desc": "'(ノ°ο°)ノ'",
-                "icon": "(ノ°ο°)ノ",
-                "text": "前方高能预警"
-            },
-            {
-                "desc": "'(´இ皿இ｀)'",
-                "icon": "(´இ皿இ｀)",
-                "text": "我从未见过如此厚颜无耻之人"
-            },
-            {
-                "desc": "'⌇●﹏●⌇'",
-                "icon": "⌇●﹏●⌇",
-                "text": "吓死宝宝惹"
-            },
-            {
-                "desc": "'(ฅ´ω`ฅ)'",
-                "icon": "(ฅ´ω`ฅ)",
-                "text": "已阅留爪"
-            },
-            {
-                "desc": "'(╯°A°)╯︵○○○'",
-                "icon": "(╯°A°)╯︵○○○",
-                "text": "去吧大师球"
-            },
-            {
-                "desc": "'φ(￣∇￣o)'",
-                "icon": "φ(￣∇￣o)",
-                "text": "太萌惹"
-            },
-            {
-                "desc": "'ヾ(´･ ･｀｡)ノ'",
-                "icon": "ヾ(´･ ･｀｡)ノ",
-                "text": "咦咦咦"
-            },
-            {
-                "desc": "'( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃'",
-                "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
-                "text": "气呼呼"
-            },
-            {
-                "desc": "'(ó﹏ò｡)'",
-                "icon": "(ó﹏ò｡)",
-                "text": "我受到了惊吓"
-            },
-            {
-                "desc": "'Σ(っ °Д °;)っ'",
-                "icon": "Σ(っ °Д °;)っ",
-                "text": "什么鬼"
-            },
-            {
-                "desc": "'( ,,´･ω･)ﾉ(´っω･｀｡)'",
-                "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
-                "text": "安慰"
-            },
-            {
-                "desc": "'╮(╯▽╰)╭'",
-                "icon": "╮(╯▽╰)╭",
-                "text": "无奈"
-            },
-            {
-                "desc": "'o(*////▽////*)q'",
-                "icon": "o(*////▽////*)q",
-                "text": "脸红"
-            },
-            {
-                "desc": "'＞﹏＜'",
-                "icon": "＞﹏＜",
-                "text": "难受"
-            },
-            {
-                "desc": "'( ๑´•ω•) ﾉ(ㆆᴗㆆ)'",
-                "icon": "( ๑´•ω•) ﾉ(ㆆᴗㆆ)",
-                "text": "摸摸头"
-            }
-        ]
-    },
-    "微博": {
-        "type": "image",
-        "container": [
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb1.png",
-                "desc": "':Y.wb1:'",
-                "text": "Y.wb1"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb2.png",
-                "desc": "':Y.wb2:'",
-                "text": "Y.wb2"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb3.png",
-                "desc": "':Y.wb3:'",
-                "text": "Y.wb3"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb4.png",
-                "desc": "':Y.wb4:'",
-                "text": "Y.wb4"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb5.png",
-                "desc": "':Y.wb5:'",
-                "text": "Y.wb5"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb6.png",
-                "desc": "':Y.wb6:'",
-                "text": "Y.wb6"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb7.png",
-                "desc": "':Y.wb7:'",
-                "text": "Y.wb7"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb8.png",
-                "desc": "':Y.wb8:'",
-                "text": "Y.wb8"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb9.png",
-                "desc": "':Y.wb9:'",
-                "text": "Y.wb9"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb10.png",
-                "desc": "':Y.wb10:'",
-                "text": "Y.wb10"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb11.png",
-                "desc": "':Y.wb11:'",
-                "text": "Y.wb11"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb12.png",
-                "desc": "':Y.wb12:'",
-                "text": "Y.wb12"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb13.png",
-                "desc": "':Y.wb13:'",
-                "text": "Y.wb13"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb14.png",
-                "desc": "':Y.wb14:'",
-                "text": "Y.wb14"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb15.png",
-                "desc": "':Y.wb15:'",
-                "text": "Y.wb15"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb16.png",
-                "desc": "':Y.wb16:'",
-                "text": "Y.wb16"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb17.png",
-                "desc": "':Y.wb17:'",
-                "text": "Y.wb17"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb18.png",
-                "desc": "':Y.wb18:'",
-                "text": "Y.wb18"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb19.png",
-                "desc": "':Y.wb19:'",
-                "text": "Y.wb19"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb20.png",
-                "desc": "':Y.wb20:'",
-                "text": "Y.wb20"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb21.png",
-                "desc": "':Y.wb21:'",
-                "text": "Y.wb21"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb22.png",
-                "desc": "':Y.wb22:'",
-                "text": "Y.wb22"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb23.png",
-                "desc": "':Y.wb23:'",
-                "text": "Y.wb23"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb24.png",
-                "desc": "':Y.wb24:'",
-                "text": "Y.wb24"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb25.png",
-                "desc": "':Y.wb25:'",
-                "text": "Y.wb25"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb26.png",
-                "desc": "':Y.wb26:'",
-                "text": "Y.wb26"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb27.png",
-                "desc": "':Y.wb27:'",
-                "text": "Y.wb27"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb28.png",
-                "desc": "':Y.wb28:'",
-                "text": "Y.wb28"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb29.png",
-                "desc": "':Y.wb29:'",
-                "text": "Y.wb29"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb30.png",
-                "desc": "':Y.wb30:'",
-                "text": "Y.wb30"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb31.png",
-                "desc": "':Y.wb31:'",
-                "text": "Y.wb31"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb32.png",
-                "desc": "':Y.wb32:'",
-                "text": "Y.wb32"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb33.png",
-                "desc": "':Y.wb33:'",
-                "text": "Y.wb33"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb34.png",
-                "desc": "':Y.wb34:'",
-                "text": "Y.wb34"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb35.png",
-                "desc": "':Y.wb35:'",
-                "text": "Y.wb35"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb36.png",
-                "desc": "':Y.wb36:'",
-                "text": "Y.wb36"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb37.png",
-                "desc": "':Y.wb37:'",
-                "text": "Y.wb37"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb38.png",
-                "desc": "':Y.wb38:'",
-                "text": "Y.wb38"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb39.png",
-                "desc": "':Y.wb39:'",
-                "text": "Y.wb39"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb40.png",
-                "desc": "':Y.wb40:'",
-                "text": "Y.wb40"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb41.png",
-                "desc": "':Y.wb41:'",
-                "text": "Y.wb41"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb42.png",
-                "desc": "':Y.wb42:'",
-                "text": "Y.wb42"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb43.png",
-                "desc": "':Y.wb43:'",
-                "text": "Y.wb43"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb44.png",
-                "desc": "':Y.wb44:'",
-                "text": "Y.wb44"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb45.png",
-                "desc": "':Y.wb45:'",
-                "text": "Y.wb45"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb46.png",
-                "desc": "':Y.wb46:'",
-                "text": "Y.wb46"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb47.png",
-                "desc": "':Y.wb47:'",
-                "text": "Y.wb47"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb48.png",
-                "desc": "':Y.wb48:'",
-                "text": "Y.wb48"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb49.png",
-                "desc": "':Y.wb49:'",
-                "text": "Y.wb49"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb50.png",
-                "desc": "':Y.wb50:'",
-                "text": "Y.wb50"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb51.png",
-                "desc": "':Y.wb51:'",
-                "text": "Y.wb51"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb52.png",
-                "desc": "':Y.wb52:'",
-                "text": "Y.wb52"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb53.png",
-                "desc": "':Y.wb53:'",
-                "text": "Y.wb53"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb54.png",
-                "desc": "':Y.wb54:'",
-                "text": "Y.wb54"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb55.png",
-                "desc": "':Y.wb55:'",
-                "text": "Y.wb55"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb56.png",
-                "desc": "':Y.wb56:'",
-                "text": "Y.wb56"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb57.png",
-                "desc": "':Y.wb57:'",
-                "text": "Y.wb57"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb58.png",
-                "desc": "':Y.wb58:'",
-                "text": "Y.wb58"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb59.png",
-                "desc": "':Y.wb59:'",
-                "text": "Y.wb59"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb60.png",
-                "desc": "':Y.wb60:'",
-                "text": "Y.wb60"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb61.png",
-                "desc": "':Y.wb61:'",
-                "text": "Y.wb61"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb62.png",
-                "desc": "':Y.wb62:'",
-                "text": "Y.wb62"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb63.png",
-                "desc": "':Y.wb63:'",
-                "text": "Y.wb63"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb64.png",
-                "desc": "':Y.wb64:'",
-                "text": "Y.wb64"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb65.png",
-                "desc": "':Y.wb65:'",
-                "text": "Y.wb65"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb66.png",
-                "desc": "':Y.wb66:'",
-                "text": "Y.wb66"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb67.png",
-                "desc": "':Y.wb67:'",
-                "text": "Y.wb67"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb68.png",
-                "desc": "':Y.wb68:'",
-                "text": "Y.wb68"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb69.png",
-                "desc": "':Y.wb69:'",
-                "text": "Y.wb69"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb70.png",
-                "desc": "':Y.wb70:'",
-                "text": "Y.wb70"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb71.png",
-                "desc": "':Y.wb71:'",
-                "text": "Y.wb71"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb72.png",
-                "desc": "':Y.wb72:'",
-                "text": "Y.wb72"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb73.png",
-                "desc": "':Y.wb73:'",
-                "text": "Y.wb73"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb74.png",
-                "desc": "':Y.wb74:'",
-                "text": "Y.wb74"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb75.png",
-                "desc": "':Y.wb75:'",
-                "text": "Y.wb75"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb76.png",
-                "desc": "':Y.wb76:'",
-                "text": "Y.wb76"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb77.png",
-                "desc": "':Y.wb77:'",
-                "text": "Y.wb77"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb78.png",
-                "desc": "':Y.wb78:'",
-                "text": "Y.wb78"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb79.png",
-                "desc": "':Y.wb79:'",
-                "text": "Y.wb79"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb80.png",
-                "desc": "':Y.wb80:'",
-                "text": "Y.wb80"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb81.png",
-                "desc": "':Y.wb81:'",
-                "text": "Y.wb81"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb82.png",
-                "desc": "':Y.wb82:'",
-                "text": "Y.wb82"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb83.png",
-                "desc": "':Y.wb83:'",
-                "text": "Y.wb83"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb84.png",
-                "desc": "':Y.wb84:'",
-                "text": "Y.wb84"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb85.png",
-                "desc": "':Y.wb85:'",
-                "text": "Y.wb85"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb86.png",
-                "desc": "':Y.wb86:'",
-                "text": "Y.wb86"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb87.png",
-                "desc": "':Y.wb87:'",
-                "text": "Y.wb87"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb88.png",
-                "desc": "':Y.wb88:'",
-                "text": "Y.wb88"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb89.png",
-                "desc": "':Y.wb89:'",
-                "text": "Y.wb89"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb90.png",
-                "desc": "':Y.wb90:'",
-                "text": "Y.wb90"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb91.png",
-                "desc": "':Y.wb91:'",
-                "text": "Y.wb91"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb92.png",
-                "desc": "':Y.wb92:'",
-                "text": "Y.wb92"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb93.png",
-                "desc": "':Y.wb93:'",
-                "text": "Y.wb93"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb94.png",
-                "desc": "':Y.wb94:'",
-                "text": "Y.wb94"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb95.png",
-                "desc": "':Y.wb95:'",
-                "text": "Y.wb95"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb96.png",
-                "desc": "':Y.wb96:'",
-                "text": "Y.wb96"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb97.png",
-                "desc": "':Y.wb97:'",
-                "text": "Y.wb97"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb98.png",
-                "desc": "':Y.wb98:'",
-                "text": "Y.wb98"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb99.png",
-                "desc": "':Y.wb99:'",
-                "text": "Y.wb99"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb100.png",
-                "desc": "':Y.wb100:'",
-                "text": "Y.wb100"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb101.png",
-                "desc": "':Y.wb101:'",
-                "text": "Y.wb101"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb102.png",
-                "desc": "':Y.wb102:'",
-                "text": "Y.wb102"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb103.png",
-                "desc": "':Y.wb103:'",
-                "text": "Y.wb103"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb104.png",
-                "desc": "':Y.wb104:'",
-                "text": "Y.wb104"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb105.png",
-                "desc": "':Y.wb105:'",
-                "text": "Y.wb105"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb106.png",
-                "desc": "':Y.wb106:'",
-                "text": "Y.wb106"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb107.png",
-                "desc": "':Y.wb107:'",
-                "text": "Y.wb107"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb108.png",
-                "desc": "':Y.wb108:'",
-                "text": "Y.wb108"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb109.png",
-                "desc": "':Y.wb109:'",
-                "text": "Y.wb109"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb110.png",
-                "desc": "':Y.wb110:'",
-                "text": "Y.wb110"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb111.png",
-                "desc": "':Y.wb111:'",
-                "text": "Y.wb111"
-            },
-            {
-                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb112.png",
-                "desc": "':Y.wb112:'",
-                "text": "Y.wb112"
-            }
-        ]
-    },
-    "抖音": {
-        "type": "image",
-        "container": [
+        "container":
+        [
             {
                 "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/1.png",
                 "text": "1",
@@ -1846,6 +773,947 @@
                 "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/douyin/yijianchuanxin.png",
                 "text": "yijianchuanxin",
                 "desc": "':douyin.yijianchuanxin:'"
+            }
+        ]
+    },
+    "贴吧泡泡":
+    {
+        "type": "image",
+        "container":
+        [
+            {
+                "desc": "':hehe:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/hehe.png",
+                "text": "呵呵"
+            },
+            {
+                "desc": "':haha:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/haha.png",
+                "text": "哈哈"
+            },
+            {
+                "desc": "':tushe:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/tushe.png",
+                "text": "吐舌"
+            },
+            {
+                "desc": "':a:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/a.png",
+                "text": "啊"
+            },
+            {
+                "desc": "':ku:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/ku.png",
+                "text": "酷"
+            },
+            {
+                "desc": "':nu:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/nu.png",
+                "text": "怒"
+            },
+            {
+                "desc": "':kaixin:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/kaixin.png",
+                "text": "开心"
+            },
+            {
+                "desc": "':han:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/han.png",
+                "text": "汗"
+            },
+            {
+                "desc": "':lei:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/lei.png",
+                "text": "泪"
+            },
+            {
+                "desc": "':heixian:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/heixian.png",
+                "text": "黑线"
+            },
+            {
+                "desc": "':bishi:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bishi.png",
+                "text": "鄙视"
+            },
+            {
+                "desc": "':bugaoxing:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bugaoxing.png",
+                "text": "不高兴"
+            },
+            {
+                "desc": "':zhenbang:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/zhenbang.png",
+                "text": "真棒"
+            },
+            {
+                "desc": "':qian:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/qian.png",
+                "text": "钱"
+            },
+            {
+                "desc": "':yiwen:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/yiwen.png",
+                "text": "疑问"
+            },
+            {
+                "desc": "':yinxian:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/yinxian.png",
+                "text": "阴险"
+            },
+            {
+                "desc": "':tu:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/tu.png",
+                "text": "吐"
+            },
+            {
+                "desc": "':yi:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/yi.png",
+                "text": "咦"
+            },
+            {
+                "desc": "':weiqv:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weiqv.png",
+                "text": "委屈"
+            },
+            {
+                "desc": "':huaxin:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaxin.png",
+                "text": "花心"
+            },
+            {
+                "desc": "':hu:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/hu.png",
+                "text": "呼~~"
+            },
+            {
+                "desc": "':xiaoyan:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/xiaoyan.png",
+                "text": "笑眼"
+            },
+            {
+                "desc": "':leng:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/leng.png",
+                "text": "冷"
+            },
+            {
+                "desc": "':taikaixin:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/taikaixin.png",
+                "text": "太开心"
+            },
+            {
+                "desc": "':huaji2:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji2.png",
+                "text": "右滑稽"
+            },
+            {
+                "desc": "':huaji:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji.png",
+                "text": "左滑稽"
+            },
+            {
+                "desc": "':mianqiang:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/mianqiang.png",
+                "text": "勉强"
+            },
+            {
+                "desc": "':kuanghan:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/kuanghan.png",
+                "text": "狂汗"
+            },
+            {
+                "desc": "':guai:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/guai.png",
+                "text": "乖"
+            },
+            {
+                "desc": "':shuijiao:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/shuijiao.png",
+                "text": "睡觉"
+            },
+            {
+                "desc": "':jingku:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/jingku.png",
+                "text": "惊哭"
+            },
+            {
+                "desc": "':shengqi:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/shengqi.png",
+                "text": "生气"
+            },
+            {
+                "desc": "':jingya:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/jingya.png",
+                "text": "惊讶"
+            },
+            {
+                "desc": "':pen:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/pen.png",
+                "text": "喷"
+            },
+            {
+                "desc": "':aixin:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/aixin.png",
+                "text": "爱心"
+            },
+            {
+                "desc": "':xinsui:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/xinsui.png",
+                "text": "心碎"
+            },
+            {
+                "desc": "':meigui:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/meigui.png",
+                "text": "玫瑰"
+            },
+            {
+                "desc": "':liwu:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/liwu.png",
+                "text": "礼物"
+            },
+            {
+                "desc": "':caihong:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/caihong.png",
+                "text": "彩虹"
+            },
+            {
+                "desc": "':xxyl:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/xxyl.png",
+                "text": "星星月亮"
+            },
+            {
+                "desc": "':sun:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/sun.png",
+                "text": "太阳"
+            },
+            {
+                "desc": "':money:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/money.png",
+                "text": "钱币"
+            },
+            {
+                "desc": "':bulb:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bulb.png",
+                "text": "灯泡"
+            },
+            {
+                "desc": "':cup:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/cup.png",
+                "text": "茶杯"
+            },
+            {
+                "desc": "':cake:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/cake.png",
+                "text": "蛋糕"
+            },
+            {
+                "desc": "':music:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/music.png",
+                "text": "音乐"
+            },
+            {
+                "desc": "':haha2:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/haha2.png",
+                "text": "haha"
+            },
+            {
+                "desc": "':win:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/win.png",
+                "text": "胜利"
+            },
+            {
+                "desc": "':good:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/good.png",
+                "text": "大拇指"
+            },
+            {
+                "desc": "':bad:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/bad.png",
+                "text": "弱"
+            },
+            {
+                "desc": "':ok:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/ok.png",
+                "text": "OK"
+            }
+        ]
+    },
+    "滑稽":
+    {
+        "type": "image",
+        "container":
+        [
+            {
+                "desc": "':huaji2:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji2.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji3:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji3.gif",
+                "text": ""
+            },
+            {
+                "desc": "':huaji4:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji4.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji5:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji5.gif",
+                "text": ""
+            },
+            {
+                "desc": "':huaji6:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji6.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji8:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji8.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji10:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji10.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji11:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji11.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji12:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji12.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji13:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji13.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji14:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji14.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji15:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji15.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji16:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji16.gif",
+                "text": ""
+            },
+            {
+                "desc": "':huaji17:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji17.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji18:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji18.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji19:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji19.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji20:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji20.gif",
+                "text": ""
+            },
+            {
+                "desc": "':huaji21:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji21.gif",
+                "text": ""
+            },
+            {
+                "desc": "':huaji22:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji22.png",
+                "text": ""
+            },
+            {
+                "desc": "':huaji23:'",
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/huaji23.png",
+                "text": ""
+            }
+        ]
+    },
+    "微博":
+    {
+        "type": "image",
+        "container":
+        [
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb1.png",
+                "desc": "':Y.wb1:'",
+                "text": "Y.wb1"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb2.png",
+                "desc": "':Y.wb2:'",
+                "text": "Y.wb2"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb3.png",
+                "desc": "':Y.wb3:'",
+                "text": "Y.wb3"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb4.png",
+                "desc": "':Y.wb4:'",
+                "text": "Y.wb4"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb5.png",
+                "desc": "':Y.wb5:'",
+                "text": "Y.wb5"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb6.png",
+                "desc": "':Y.wb6:'",
+                "text": "Y.wb6"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb7.png",
+                "desc": "':Y.wb7:'",
+                "text": "Y.wb7"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb8.png",
+                "desc": "':Y.wb8:'",
+                "text": "Y.wb8"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb9.png",
+                "desc": "':Y.wb9:'",
+                "text": "Y.wb9"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb10.png",
+                "desc": "':Y.wb10:'",
+                "text": "Y.wb10"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb11.png",
+                "desc": "':Y.wb11:'",
+                "text": "Y.wb11"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb12.png",
+                "desc": "':Y.wb12:'",
+                "text": "Y.wb12"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb13.png",
+                "desc": "':Y.wb13:'",
+                "text": "Y.wb13"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb14.png",
+                "desc": "':Y.wb14:'",
+                "text": "Y.wb14"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb15.png",
+                "desc": "':Y.wb15:'",
+                "text": "Y.wb15"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb16.png",
+                "desc": "':Y.wb16:'",
+                "text": "Y.wb16"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb17.png",
+                "desc": "':Y.wb17:'",
+                "text": "Y.wb17"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb18.png",
+                "desc": "':Y.wb18:'",
+                "text": "Y.wb18"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb19.png",
+                "desc": "':Y.wb19:'",
+                "text": "Y.wb19"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb20.png",
+                "desc": "':Y.wb20:'",
+                "text": "Y.wb20"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb21.png",
+                "desc": "':Y.wb21:'",
+                "text": "Y.wb21"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb22.png",
+                "desc": "':Y.wb22:'",
+                "text": "Y.wb22"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb23.png",
+                "desc": "':Y.wb23:'",
+                "text": "Y.wb23"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb24.png",
+                "desc": "':Y.wb24:'",
+                "text": "Y.wb24"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb25.png",
+                "desc": "':Y.wb25:'",
+                "text": "Y.wb25"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb26.png",
+                "desc": "':Y.wb26:'",
+                "text": "Y.wb26"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb27.png",
+                "desc": "':Y.wb27:'",
+                "text": "Y.wb27"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb28.png",
+                "desc": "':Y.wb28:'",
+                "text": "Y.wb28"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb29.png",
+                "desc": "':Y.wb29:'",
+                "text": "Y.wb29"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb30.png",
+                "desc": "':Y.wb30:'",
+                "text": "Y.wb30"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb31.png",
+                "desc": "':Y.wb31:'",
+                "text": "Y.wb31"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb32.png",
+                "desc": "':Y.wb32:'",
+                "text": "Y.wb32"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb33.png",
+                "desc": "':Y.wb33:'",
+                "text": "Y.wb33"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb34.png",
+                "desc": "':Y.wb34:'",
+                "text": "Y.wb34"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb35.png",
+                "desc": "':Y.wb35:'",
+                "text": "Y.wb35"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb36.png",
+                "desc": "':Y.wb36:'",
+                "text": "Y.wb36"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb37.png",
+                "desc": "':Y.wb37:'",
+                "text": "Y.wb37"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb38.png",
+                "desc": "':Y.wb38:'",
+                "text": "Y.wb38"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb39.png",
+                "desc": "':Y.wb39:'",
+                "text": "Y.wb39"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb40.png",
+                "desc": "':Y.wb40:'",
+                "text": "Y.wb40"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb41.png",
+                "desc": "':Y.wb41:'",
+                "text": "Y.wb41"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb42.png",
+                "desc": "':Y.wb42:'",
+                "text": "Y.wb42"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb43.png",
+                "desc": "':Y.wb43:'",
+                "text": "Y.wb43"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb44.png",
+                "desc": "':Y.wb44:'",
+                "text": "Y.wb44"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb45.png",
+                "desc": "':Y.wb45:'",
+                "text": "Y.wb45"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb46.png",
+                "desc": "':Y.wb46:'",
+                "text": "Y.wb46"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb47.png",
+                "desc": "':Y.wb47:'",
+                "text": "Y.wb47"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb48.png",
+                "desc": "':Y.wb48:'",
+                "text": "Y.wb48"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb49.png",
+                "desc": "':Y.wb49:'",
+                "text": "Y.wb49"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb50.png",
+                "desc": "':Y.wb50:'",
+                "text": "Y.wb50"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb51.png",
+                "desc": "':Y.wb51:'",
+                "text": "Y.wb51"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb52.png",
+                "desc": "':Y.wb52:'",
+                "text": "Y.wb52"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb53.png",
+                "desc": "':Y.wb53:'",
+                "text": "Y.wb53"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb54.png",
+                "desc": "':Y.wb54:'",
+                "text": "Y.wb54"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb55.png",
+                "desc": "':Y.wb55:'",
+                "text": "Y.wb55"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb56.png",
+                "desc": "':Y.wb56:'",
+                "text": "Y.wb56"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb57.png",
+                "desc": "':Y.wb57:'",
+                "text": "Y.wb57"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb58.png",
+                "desc": "':Y.wb58:'",
+                "text": "Y.wb58"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb59.png",
+                "desc": "':Y.wb59:'",
+                "text": "Y.wb59"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb60.png",
+                "desc": "':Y.wb60:'",
+                "text": "Y.wb60"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb61.png",
+                "desc": "':Y.wb61:'",
+                "text": "Y.wb61"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb62.png",
+                "desc": "':Y.wb62:'",
+                "text": "Y.wb62"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb63.png",
+                "desc": "':Y.wb63:'",
+                "text": "Y.wb63"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb64.png",
+                "desc": "':Y.wb64:'",
+                "text": "Y.wb64"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb65.png",
+                "desc": "':Y.wb65:'",
+                "text": "Y.wb65"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb66.png",
+                "desc": "':Y.wb66:'",
+                "text": "Y.wb66"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb67.png",
+                "desc": "':Y.wb67:'",
+                "text": "Y.wb67"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb68.png",
+                "desc": "':Y.wb68:'",
+                "text": "Y.wb68"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb69.png",
+                "desc": "':Y.wb69:'",
+                "text": "Y.wb69"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb70.png",
+                "desc": "':Y.wb70:'",
+                "text": "Y.wb70"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb71.png",
+                "desc": "':Y.wb71:'",
+                "text": "Y.wb71"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb72.png",
+                "desc": "':Y.wb72:'",
+                "text": "Y.wb72"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb73.png",
+                "desc": "':Y.wb73:'",
+                "text": "Y.wb73"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb74.png",
+                "desc": "':Y.wb74:'",
+                "text": "Y.wb74"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb75.png",
+                "desc": "':Y.wb75:'",
+                "text": "Y.wb75"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb76.png",
+                "desc": "':Y.wb76:'",
+                "text": "Y.wb76"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb77.png",
+                "desc": "':Y.wb77:'",
+                "text": "Y.wb77"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb78.png",
+                "desc": "':Y.wb78:'",
+                "text": "Y.wb78"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb79.png",
+                "desc": "':Y.wb79:'",
+                "text": "Y.wb79"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb80.png",
+                "desc": "':Y.wb80:'",
+                "text": "Y.wb80"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb81.png",
+                "desc": "':Y.wb81:'",
+                "text": "Y.wb81"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb82.png",
+                "desc": "':Y.wb82:'",
+                "text": "Y.wb82"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb83.png",
+                "desc": "':Y.wb83:'",
+                "text": "Y.wb83"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb84.png",
+                "desc": "':Y.wb84:'",
+                "text": "Y.wb84"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb85.png",
+                "desc": "':Y.wb85:'",
+                "text": "Y.wb85"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb86.png",
+                "desc": "':Y.wb86:'",
+                "text": "Y.wb86"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb87.png",
+                "desc": "':Y.wb87:'",
+                "text": "Y.wb87"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb88.png",
+                "desc": "':Y.wb88:'",
+                "text": "Y.wb88"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb89.png",
+                "desc": "':Y.wb89:'",
+                "text": "Y.wb89"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb90.png",
+                "desc": "':Y.wb90:'",
+                "text": "Y.wb90"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb91.png",
+                "desc": "':Y.wb91:'",
+                "text": "Y.wb91"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb92.png",
+                "desc": "':Y.wb92:'",
+                "text": "Y.wb92"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb93.png",
+                "desc": "':Y.wb93:'",
+                "text": "Y.wb93"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb94.png",
+                "desc": "':Y.wb94:'",
+                "text": "Y.wb94"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb95.png",
+                "desc": "':Y.wb95:'",
+                "text": "Y.wb95"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb96.png",
+                "desc": "':Y.wb96:'",
+                "text": "Y.wb96"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb97.png",
+                "desc": "':Y.wb97:'",
+                "text": "Y.wb97"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb98.png",
+                "desc": "':Y.wb98:'",
+                "text": "Y.wb98"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb99.png",
+                "desc": "':Y.wb99:'",
+                "text": "Y.wb99"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb100.png",
+                "desc": "':Y.wb100:'",
+                "text": "Y.wb100"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb101.png",
+                "desc": "':Y.wb101:'",
+                "text": "Y.wb101"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb102.png",
+                "desc": "':Y.wb102:'",
+                "text": "Y.wb102"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb103.png",
+                "desc": "':Y.wb103:'",
+                "text": "Y.wb103"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb104.png",
+                "desc": "':Y.wb104:'",
+                "text": "Y.wb104"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb105.png",
+                "desc": "':Y.wb105:'",
+                "text": "Y.wb105"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb106.png",
+                "desc": "':Y.wb106:'",
+                "text": "Y.wb106"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb107.png",
+                "desc": "':Y.wb107:'",
+                "text": "Y.wb107"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb108.png",
+                "desc": "':Y.wb108:'",
+                "text": "Y.wb108"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb109.png",
+                "desc": "':Y.wb109:'",
+                "text": "Y.wb109"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb110.png",
+                "desc": "':Y.wb110:'",
+                "text": "Y.wb110"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb111.png",
+                "desc": "':Y.wb111:'",
+                "text": "Y.wb111"
+            },
+            {
+                "icon": "https://cdn.jsdelivr.net/gh/lifengdi/owo@main/static/images/smilies/weibo/Y.wb112.png",
+                "desc": "':Y.wb112:'",
+                "text": "Y.wb112"
             }
         ]
     }
